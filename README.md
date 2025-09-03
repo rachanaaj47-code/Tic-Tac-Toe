@@ -1,5 +1,3 @@
-:
-
 🎮 Tic-Tac-Toe (Python)
 
 A simple command-line Tic-Tac-Toe game built in Python.
